@@ -1,17 +1,17 @@
-# Advanced-Microprocessors__
- Write an assembly program do different functions according to user selection, it__
- displays the following menu to the user:__
-1. Matrices Multiplication__
-2. Character Histogram__
-3. Exit__
-Enter your choice:__
-The following is a description of each function:__
-Matrices Multiplication__
-Prompt the user to enter a dimension of the two matrices, and then prompt him/her to__
-enter a matrix of integers, ask the user to enter another matrix of integers. Print the__
-two entered matrices then print the result matrix.__
-Note: Use procedure named matmul__
-A sample execution of the program is shown below:__
+# Advanced-Microprocessors __
+ Write an assembly program do different functions according to user selection, it __
+ displays the following menu to the user: __
+1. Matrices Multiplication __
+2. Character Histogram __
+3. Exit __
+Enter your choice: __
+The following is a description of each function: __
+Matrices Multiplication __
+Prompt the user to enter a dimension of the two matrices, and then prompt him/her to __
+enter a matrix of integers, ask the user to enter another matrix of integers. Print the __
+two entered matrices then print the result matrix. __
+Note: Use procedure named matmul __
+A sample execution of the program is shown below: __
 Enter matrix dimension: 2__
 Enter first matrix:__
 1__
