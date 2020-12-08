@@ -1,26 +1,26 @@
-# Advanced-Microprocessors
-# Write an assembly program do different functions according to user selection, it
-# displays the following menu to the user:
-1. Matrices Multiplication
-2. Character Histogram
-3. Exit
-Enter your choice:
-The following is a description of each function:
-Matrices Multiplication
-Prompt the user to enter a dimension of the two matrices, and then prompt him/her to
-enter a matrix of integers, ask the user to enter another matrix of integers. Print the
-two entered matrices then print the result matrix.
-Note: Use procedure named matmul
-A sample execution of the program is shown below:
-Enter matrix dimension: 2
-Enter first matrix:
-1
-2
-3
-4
-Enter second matrix:
-5
-6
+# Advanced-Microprocessors__
+ Write an assembly program do different functions according to user selection, it__
+ displays the following menu to the user:__
+1. Matrices Multiplication__
+2. Character Histogram__
+3. Exit__
+Enter your choice:__
+The following is a description of each function:__
+Matrices Multiplication__
+Prompt the user to enter a dimension of the two matrices, and then prompt him/her to__
+enter a matrix of integers, ask the user to enter another matrix of integers. Print the__
+two entered matrices then print the result matrix.__
+Note: Use procedure named matmul__
+A sample execution of the program is shown below:__
+Enter matrix dimension: 2__
+Enter first matrix:__
+1__
+2__
+3__
+4__
+Enter second matrix:__
+5__
+6__
 7
 8
 First entered matrix is:
