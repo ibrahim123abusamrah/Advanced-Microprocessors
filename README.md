@@ -1,6 +1,6 @@
 # Advanced-Microprocessors
-Write an assembly program do different functions according to user selection, it
-displays the following menu to the user:
+# Write an assembly program do different functions according to user selection, it
+# displays the following menu to the user:
 1. Matrices Multiplication
 2. Character Histogram
 3. Exit
